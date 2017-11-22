@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AppForTablet</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment One</string>
+    <string name="hello2_blank_fragment">Hello blank fragment Two</string>
+    <string name="btn_frag1">To Fragment Two</string>
+
+
+</resources>

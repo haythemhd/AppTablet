@@ -1,0 +1,31 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="haythem.hd.appfortablet.FragOne">
+
+    <TextView
+        android:layout_margin="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/hello_blank_fragment"
+        android:layout_gravity="center"/>
+
+    <EditText
+        android:id="@+id/edit_text"
+        android:layout_margin="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="String to next"
+        android:layout_gravity="center"/>
+
+    <Button
+        android:layout_margin="20dp"
+        android:id="@+id/btn_to_frag"
+        android:text="@string/btn_frag1"
+        android:layout_width="wrap_content"
+        android:layout_gravity="center"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>
